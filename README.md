@@ -1,4 +1,6 @@
 # KilobotArena
+Modified for internship at ISIR. .pro file is now only for linux, inexistent libraries are not used, compatibility issues between OpenCV 2 and OpenCV 3 were fixed.
+
 ## Augmented Reality for Kilobots (ARK)
 ### Installation
 
@@ -26,4 +28,3 @@ If you use or adapt ARK in order to generate experimental results, please cite t
 
 * ARK makes use of a redesigned overhead controller: [ARK_OHC](https://github.com/DiODeProject/ARK_OHC)
 * [Kilobot Wiki](http://diode.group.shef.ac.uk/kilobots/index.php/Kilobots)
-# KilobotArena
